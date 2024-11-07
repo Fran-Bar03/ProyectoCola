@@ -1,0 +1,7 @@
+C:\Users\Hachi\source\repos\ProyectoCola\ProyectoCola\obj\Debug\ProyectoCola.csproj.AssemblyReference.cache
+C:\Users\Hachi\source\repos\ProyectoCola\ProyectoCola\obj\Debug\ProyectoCola.csproj.CoreCompileInputs.cache
+C:\Users\Hachi\source\repos\ProyectoCola\ProyectoCola\bin\Debug\ProyectoCola.exe.config
+C:\Users\Hachi\source\repos\ProyectoCola\ProyectoCola\bin\Debug\ProyectoCola.exe
+C:\Users\Hachi\source\repos\ProyectoCola\ProyectoCola\bin\Debug\ProyectoCola.pdb
+C:\Users\Hachi\source\repos\ProyectoCola\ProyectoCola\obj\Debug\ProyectoCola.exe
+C:\Users\Hachi\source\repos\ProyectoCola\ProyectoCola\obj\Debug\ProyectoCola.pdb
